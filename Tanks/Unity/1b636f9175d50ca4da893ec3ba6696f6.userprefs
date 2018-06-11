@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="1b636f9175d50ca4da893ec3ba6696f6.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tank\TankMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Tank\TankMovement.cs" Line="70" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
